@@ -1,2 +1,3 @@
 local-export
 *.json
+*.csv
